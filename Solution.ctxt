@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Solution
+comment1.params=k
+comment1.target=int\ remove_zero(int)
+comment2.params=k
+comment2.target=int\ Primekina(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

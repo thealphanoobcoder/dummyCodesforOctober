@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GFG
+comment0.text=\ Java\ program\ to\ count\ no\ of\ words\ \r\nfrom\ given\ input\ string.
+comment1.params=str
+comment1.target=int\ countWords(java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

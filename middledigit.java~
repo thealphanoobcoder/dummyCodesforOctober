@@ -1,0 +1,29 @@
+// Java program to find middle digit of number  
+class middledigit
+{ 
+
+    // Function to find the middle digit  
+    static int middleDigit(int n)  
+    {  
+
+        // Find total number of digits  
+        int digits = (int)Math.log10(n) + 1;  
+
+        // Find middle digit  
+        n = (int)(n / Math.pow(10, digits / 2)) % 10;  
+
+        // Return middle digit  
+        return n;  
+    }  
+
+    // Driver Code 
+    public static void main(String[] args) 
+    { 
+
+        // Given number N 
+        int N = 985623; 
+
+        // Function call 
+        System.out.println(middleDigit(N)); 
+    } 
+} 
